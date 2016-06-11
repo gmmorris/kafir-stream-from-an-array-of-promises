@@ -1,0 +1,10 @@
+{
+    "extends": "standard",
+    "parserOptions": {
+        "no-undef": "error",
+        "sourceType": "module",
+        "ecmaFeatures": {
+            "experimentalObjectRestSpread": true
+        }
+    }
+}
